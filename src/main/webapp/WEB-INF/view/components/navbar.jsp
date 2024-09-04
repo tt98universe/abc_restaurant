@@ -32,8 +32,8 @@ OrderDao orderDao =context.getBean(OrderDao.class);
 <nav class="navbar navbar-expand-lg navbar-dark custom-bg">
 
 <div class="container-fluid">
-  <img src="resources/images/mainlogo.png" width="35" height="35" class="d-inline-block align-top" alt="">
-  <a class="navbar-brand" href="/"><h3 class="text-color"><i>Online Food Ordering</i></h3></a>
+  <img src="resources/images/mainlogo.png" width="50" height="55" class="d-inline-block align-top" alt="">
+  <a class="navbar-brand" href="/"><h3 class="text-color"><i>WELCOME ! ABC online food ordering</i></h3></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
