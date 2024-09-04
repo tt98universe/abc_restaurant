@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home- Online Food Ordering</title>
+<title>Home- ABC Online Food Ordering</title>
 <%@ include file="./components/common_cs_js.jsp"%>
 </head>
 <body>
@@ -100,8 +100,8 @@
                                  <p class="card-text"><%=Helper.get10Words(p.getDescription()) %></p> 
                              </div>
                              <div class="card-footer text-center">
-                                 <p style="font-size:25px"><span class="ml-2"><b>&#8377;<%=Helper.getFoodSellingPrice(p.getPrice(), p.getDiscount()) %>/-</b></span>
-                                 <span class="ml-2" style="font-size:20px;color:red"><s>&#8377;<%=p.getPrice()%></s></span>
+                                 <p style="font-size:25px"><span class="ml-2"><b>LKR<%=Helper.getFoodSellingPrice(p.getPrice(), p.getDiscount()) %>/-</b></span>
+                                 <span class="ml-2" style="font-size:20px;color:red"><s>LKR<%=p.getPrice()%></s></span>
                                   <span class="ml-2" style="font-size:20px;color:green"><%=p.getDiscount() %>&#37 off</span>
                                  </p>
                                   
