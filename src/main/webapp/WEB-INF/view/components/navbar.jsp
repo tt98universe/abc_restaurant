@@ -238,7 +238,7 @@ OrderDao orderDao =context.getBean(OrderDao.class);
 <hr>
 
 <div class="text-right">
-     <p style="font-size:25px;"><b>Total Price :&#8377;<%= totalCartPrice %>/- </b></p>  
+     <p style="font-size:25px;"><b>Total Price : LKR <%= totalCartPrice %>/- </b></p>  
 </div>
 <hr>
 <div class="row">
@@ -334,8 +334,8 @@ OrderDao orderDao =context.getBean(OrderDao.class);
         <div class="container text-center">
         <p style="font-size:23px;">
             <b>
-                <img src="resources/images/phonee.png" style="width:27px;" alt="img">+91 7780727748 / +91 9515907372<br>
-                <img src="resources/images/emaill.png" style="width:29px;" alt="img">nakkellavenu0@gmail.com
+                <img src="resources/images/phonee.png" style="width:27px;" alt="img">+94123456789<br>
+                <img src="resources/images/emaill.png" style="width:29px;" alt="img">tw@gmail.com
             </b>
         </p>
         </div>
