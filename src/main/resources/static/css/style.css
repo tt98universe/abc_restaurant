@@ -6,13 +6,13 @@ body
 
 .custom-bg
 {
-	background:#fcde67!important;
+	background:rgb(64, 0, 0)!important;
 	
 }
 
 .text-color
 {
-	color:#030e12;
+	color:rgb(255, 255, 0);
 }
 
 .admin .card{
