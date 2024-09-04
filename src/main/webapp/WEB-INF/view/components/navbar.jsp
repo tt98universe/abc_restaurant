@@ -304,13 +304,7 @@ OrderDao orderDao =context.getBean(OrderDao.class);
         <div class="container">
         <p style="font-size:20px;">
           <b>
-              An e-commerce website, by definition, is a website that allows you to buy and sell tangible goods,
-               digital products or services online. Trade, be it barter exchange or buying and selling of goods and
-                services has been prevalent for centuries. No one can be self-sufficient. And this brings out the need
-                 for demand and supply of goods and services.<br><br> Transactions have been going on all over the world
-                  for centuries, locally, and across locations. Keeping the same concept in mind, now think electronic.
-                   However, also bear in mind that with the whole world going online, data privacy laws have become increasingly stringent.
-                    And before you begin, an eCommerce venture you should be aware of all the legal policies required for your eCommerce website.
+             Welcome to ABC Restaurant, your go-to destination for delicious meals delivered right to your door! Our online food ordering system makes it easy to explore a wide variety of dishes, crafted with fresh ingredients and bursting with flavor. Whether you're craving a comforting classic or a bold new taste, our menu has something for everyone. At ABC Restaurant, we are committed to providing fast, reliable service and a delightful dining experience from the comfort of your home. Enjoy great food, exceptional service, and the convenience of online ordering with ABC Restaurant.
           </b>
         </p>
         </div>
