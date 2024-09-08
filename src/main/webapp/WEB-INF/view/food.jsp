@@ -91,7 +91,7 @@
                                  <h4 class="card-text"><%=fod.getDescription() %></h4> 
                         </div>
                         <div class="card-footer text-center">
-                                 <p style="font-size:35px"><span style="font-size:35px;"><b>Price :</b></span><span class="ml-2"><b>&#8377;<%=new Helper().getFoodSellingPrice(fod.getPrice(), fod.getDiscount()) %>/-</b></span>
+                                 <p style="font-size:35px"><span style="font-size:35px;"><b>Price :</b></span><span class="ml-2"><b>LKR<%=new Helper().getFoodSellingPrice(fod.getPrice(), fod.getDiscount()) %>/-</b></span>
                                  <span class="ml-2" style="font-size:30px;color:red"><s>LKR<%=fod.getPrice()%></s></span>
                                   <span class="ml-2" style="font-size:25px;color:green"><%=fod.getDiscount() %>&#37 off</span>
                                   
